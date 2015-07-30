@@ -60,7 +60,7 @@ To do this, click the "Add a Service or API" button on the homepage
   When launched, you will be able to see the simple image recognition application, that allows a user to select a photo and identify the captured image. When clicking on the speaker button button in the bottom right hand corner you will hear the identified description.
 Let’s test the application out. 
 
-  2. Select the icon in the top right hand corner to prompt for image upload. On the desktop, we have provided some sample images in order to test out the application.
+  2. Select the icon in the top right hand corner to prompt for image upload. In the root directory in Github, we have provided a sample image for you.
 
   ![app-screenshot](instructions/app-screenshot.png)
 
@@ -126,7 +126,7 @@ Luckily, we’ve already started the process to do this. To fully implement the 
   var lt = require("./routes/lt");
   ```
 
-  6. Finally, configure the route in your `app.js` by adding the following to line 31:
+  6. Finally, configure the route in your `app.js` by adding the following to line 30:
 
   ```js
   app.post("/translate", lt.translate);
