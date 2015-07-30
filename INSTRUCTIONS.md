@@ -60,9 +60,7 @@ To do this, click the "Add a Service or API" button on the homepage
   When launched, you will be able to see the simple image recognition application, that allows a user to select a photo and identify the captured image. When clicking on the speaker button button in the bottom right hand corner you will hear the identified description.
 Let’s test the application out. 
 
-  2. Select the icon in the top right hand corner to prompt for image upload. In the root directory in Github, we have provided a sample image for you.
-
-  ![app-screenshot](instructions/app-screenshot.png)
+  2. Select the icon in the top right hand corner to prompt for image upload. You can download a sample image here by right clicking the image below and selecting "Save Image As" ![sample-image](https://upload.wikimedia.org/wikipedia/commons/1/14/2010_Malaysian_GP_opening_lap.jpg)
 
   3. When the image has been recognized, click on the Speaker icon to hear the description of the image spoken to you.
   
